@@ -10,6 +10,8 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
+    <module>jobs/process/remoteEngines/remoteengines_video_viewers_watch_0.1</module>
+    <module>jobs/process/remoteProjectTMC/job1_0.1</module>
     <module>jobs/process/remoteProjectTMC/job2_0.1</module>
   </modules>
   <properties>
